@@ -12,4 +12,4 @@ Medicamentum is a user-friendly application designed to help individuals efficie
 ## Installation  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/yourusername/MediTrack.git
+   git clone https://wesleylubke/medication-management-system-PHP.git
